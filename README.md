@@ -78,30 +78,6 @@ Create a GUI version
 
 Add unit tests
 
-License
-This project is open source and available under the MIT License.
 
-text
 
-### Recommended File Structure:
-calculator/
-├── calculator.py # Your Python script
-└── README.md # This documentation file
 
-text
-
-### To Use This README:
-
-1. Create a new file named `README.md` in the same directory as your script
-2. Copy and paste the above content
-3. Save the file
-
-The README follows standard Markdown formatting and includes all the key sections that users typically look for:
-- Clear description of what the program does
-- Installation and usage instructions
-- Examples of how to use it
-- Information about error handling
-- Suggestions for future improvements
-
-Would you like me to modify any section or add more details about specific parts of the program?
-New chat
